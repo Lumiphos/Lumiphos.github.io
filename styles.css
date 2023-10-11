@@ -9,8 +9,7 @@ h1 {
 } /* End of h1 */
 
 .assign {
-  color: #59626b;
-  /*color: #323436;*/
+  color: #323436;
   display: flex;
   padding: 10px;
   margin: 10px;
@@ -19,7 +18,5 @@ h1 {
 
 .assign img {
   width: 200px;
-  height: auto;
-  vertical-align: middle;
   padding: 10px;
 } /* End of assign img */
