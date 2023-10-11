@@ -9,7 +9,8 @@ h1 {
 } /* End of h1 */
 
 .assign {
-  color: #323436;
+  color: #59626b;
+  /*color: #323436;*/
   display: flex;
   padding: 10px;
   margin: 10px;
