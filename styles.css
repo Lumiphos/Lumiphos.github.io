@@ -17,5 +17,7 @@ h1 {
 
 .assign img {
   width: 200px;
+  height: auto;
+  vertical-align: middle;
   padding: 10px;
 } /* End of assign img */
