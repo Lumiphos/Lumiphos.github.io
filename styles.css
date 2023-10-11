@@ -1,18 +1,18 @@
 body {
-background: [pick a color];
-font-family: Arial, Helvetica, sans-serif;
+  background-color: ##c6cacc;
+  font-family: Arial, Helvetica, sans-serif;
 } /* End of body */
 
 h1 {
-color: [pick a font color];
-text-align: center;
+  color: #484b4d;
+  text-align: center;
 } /* End of h1 */
 
 .assign {
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: [pick a color];
+  background-color: #e4e8eb;
 } /* End of assign */
 
 .assign img {
