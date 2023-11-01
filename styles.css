@@ -26,5 +26,6 @@ a {
   width: 200px;
   object-fit: contain;
   padding: 10px;
-  border: 2px solid #323436; 
+  border: 1px solid #b2b6b8; 
+  border-radius: 5px; /* Felt like having rounded borders */
 } /* End of assign img */
